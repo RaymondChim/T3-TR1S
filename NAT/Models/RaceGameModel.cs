@@ -11,7 +11,7 @@ namespace NAT.Models {
         public int[] counter = { 0, 0 };
         public int[] gap = { 3, 0 };
         public Race.Map[] Maps;
-        public Car Ferrari { get; set; } //Потому что Ferrari для пиздатых мужиков
+        public Car Ferrari { get; set; } 
         public int Score { get; set; }
         public Random rand = new Random(unchecked((int)(DateTime.Now.Ticks)));
 
