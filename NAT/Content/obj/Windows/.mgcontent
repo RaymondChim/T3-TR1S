@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/NAT/NAT/Content/game_screen.tif</File>
+    <File>D:/NAT/NAT/Content/tetris_screen2.png</File>
+    <File>D:/NAT/NAT/Content/text.spritefont</File>
+    <File>D:/NAT/NAT/Content/tileA.png</File>
+    <File>D:/NAT/NAT/Content/yBorder.png</File>
+    <File>D:/NAT/NAT/Content/textBorderY.png</File>
+    <File>D:/NAT/NAT/Content/fieldY.png</File>
+    <File>D:/NAT/NAT/Content/GLfieldY.png</File>
+    <File>D:/NAT/NAT/Content/GLsideFieldY.png</File>
+    <File>D:/NAT/NAT/Content/GLtextBorderY.png</File>
+    <File>D:/NAT/NAT/Content/sideFieldY.png</File>
+    <File>D:/NAT/NAT/Content/GLfieldG.png</File>
+    <File>D:/NAT/NAT/Content/GLsideFieldG.png</File>
+    <File>D:/NAT/NAT/Content/sideFieldG.png</File>
+    <File>D:/NAT/NAT/Content/fieldG.png</File>
+    <File>D:/NAT/NAT/Content/tileG.png</File>
+    <File>D:/NAT/NAT/Content/tetris_screen_test.png</File>
+    <File>D:/NAT/NAT/Content/GLtileY.png</File>
+    <File>D:/NAT/NAT/Content/GLtileG.png</File>
+    <File>D:/NAT/NAT/Content/screenG.png</File>
+    <File>D:/NAT/NAT/Content/screenY.png</File>
+    <File>D:/NAT/NAT/Content/gmvr.png</File>
+    <File>D:/NAT/NAT/Content/NewSpriteFont.spritefont</File>
+    <File>D:/NAT/NAT/Content/start.wav</File>
+    <File>D:/NAT/NAT/Content/booting_yellow_с.avi</File>
+    <File>D:/NAT/NAT/Content/handle.png</File>
+    <File>D:/NAT/NAT/Content/lightB.png</File>
+    <File>D:/NAT/NAT/Content/lightG.png</File>
+    <File>D:/NAT/NAT/Content/lightR.png</File>
+    <File>D:/NAT/NAT/Content/lightY.png</File>
+    <File>D:/NAT/NAT/Content/switch.png</File>
+    <File>D:/NAT/NAT/Content/onoffAtlas.png</File>
+    <File>D:/NAT/NAT/Content/tetris_screen_final.png</File>
+    <File>D:/NAT/NAT/Content/trYD.png</File>
+    <File>D:/NAT/NAT/Content/text_big.spritefont</File>
+    <File>D:/NAT/NAT/Content/text_small.spritefont</File>
+    <File>D:/NAT/NAT/Content/trG.png</File>
+    <File>D:/NAT/NAT/Content/trGD.png</File>
+    <File>D:/NAT/NAT/Content/trY.png</File>
+    <File>D:/NAT/NAT/Content/BROWN.png</File>
+    <File>D:/NAT/NAT/Content/GREEN.png</File>
+  </SourceFiles>
+</SourceFileCollection>

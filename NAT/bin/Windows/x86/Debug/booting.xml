@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BootingLogs DelaySyms="." Delay="10">
+	<message>Welcome to the T3-TRIS boot loader!
+Checking secure key...
+SECURE_KEY........................................[OK]
+KEY_SIGNATURE:
+    922679B548E807F4327A13855025fA34
+Scanning for an OS...
+[DISK1]...........................................[NO]
+[DISK2]...........................................[NO]
+[DISK3]...........................................[NO]
+[DISK4].........................[T3-TRISOSv1.45 FOUND]
+booting now...
+T3-TRIS OS kernel v4.12 booting...
+Kernel booting successfull!
+Found a partition on HDD1!
+Scanning for peripheral devices...
+KEYBOARD..........................................[OK]
+MONITOR...........................................[OK]
+SECUREKEY.........................................[OK]
+NUCLEARLAUNCHER...................................[OK]
+BLOCKSACCELERATOR.................................[OK]
+LINESDESTRUCTOR...................................[OK]
+ZBLOCKSTOPLANKSRATIOCOMPUTEMODULE.................[OK]
+BRIGHTCOMMUNISTICFUTURECONTROLLER.[UNRECOGNIZED ERROR]
+Analysis required!
+Calling for analyzer.....................[No responce]
+Calling for analyzer analyzer............[No responce]
+That is not [OK]!
+
+LAYERSWITCHMODULE.................................[OK]
+GREMLINSONLYALARMMODULE...........................[OK]
+
+Scanning ramdisks ... 
+[RAM1].........................................[ERROR]
+[RAM2]............................................[OK]
+[RAM3].........................................[ERROR]
+There is a problem with ramdisk(s)
+Please contact an administrator
+(Jeff.T intercom 8673).
+
+booting successfull !............
+</message>
+</BootingLogs>
