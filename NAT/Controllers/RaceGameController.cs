@@ -11,11 +11,11 @@ using NAT.Views;
 namespace NAT.Controllers {
     public class RaceGameController : ControllerBase<IRaceGameModel, IView> {
 
-        public override int[] GameTurnDelta { get; protected set; } = new int[] { 300, 300 };
+        public override int[] GameTurnDelta { get; protected set; } = new int[] { 100, 100 };
         public override int GameInputDelta { get; protected set; } = 50;
 
-        protected override int minTurnDelta { get; set; } = 100;
-        protected override int startTurnDelta { get; set; } = 200;
+        protected override int minTurnDelta { get; set; } = 50;
+        protected override int startTurnDelta { get; set; } = 100;
 
         protected override int GameTurnDecreaseIndex { get; set; } = 10000;
         protected override int GameInputDecreaseIndex { get; set; } = 5000;

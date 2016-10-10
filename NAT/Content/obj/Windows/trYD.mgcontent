@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/NAT/NAT/Content/trYD.png</SourceFile>
+  <SourceFile>D:/git/T3-TR1S/NAT/Content/trYD.png</SourceFile>
   <SourceTime>2016-10-07T01:45:13.8617868+03:00</SourceTime>
-  <DestFile>D:/NAT/NAT/Content/bin/Windows/trYD.xnb</DestFile>
-  <DestTime>2016-10-07T18:25:14.8459728+03:00</DestTime>
+  <DestFile>D:/git/T3-TR1S/NAT/Content/bin/Windows/trYD.xnb</DestFile>
+  <DestTime>2016-10-07T23:14:00.6239427+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T09:36:08+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

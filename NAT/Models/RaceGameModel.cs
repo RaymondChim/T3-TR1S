@@ -213,7 +213,7 @@ namespace NAT.Models {
                 //Play
                 Score += 2;
                 MoveBlockDown(mapId);
-                if (gap[mapId] == 6) {
+                if (gap[mapId] == 10) {
                     gap[mapId] = 0;
                     AddNewWall(mapId);
                 }

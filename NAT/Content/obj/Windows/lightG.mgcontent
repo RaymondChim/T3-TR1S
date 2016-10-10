@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/NAT/NAT/Content/lightG.png</SourceFile>
+  <SourceFile>D:/git/T3-TR1S/NAT/Content/lightG.png</SourceFile>
   <SourceTime>2016-10-06T23:29:11.33096+03:00</SourceTime>
-  <DestFile>D:/NAT/NAT/Content/bin/Windows/lightG.xnb</DestFile>
-  <DestTime>2016-10-07T18:25:14.5449556+03:00</DestTime>
+  <DestFile>D:/git/T3-TR1S/NAT/Content/bin/Windows/lightG.xnb</DestFile>
+  <DestTime>2016-10-07T23:13:59.9909797+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T09:36:08+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

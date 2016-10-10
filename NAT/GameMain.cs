@@ -59,7 +59,6 @@ namespace NAT {
                 CoreView = view
             };
 
-            adapter = new NamerKeysInputAdapter(new Namer());
         }
 
         /// <summary>
@@ -82,8 +81,6 @@ namespace NAT {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             senpai.Start(ControllerSenpai.AnySelector);
-            adapter.LoadContent(Content, "trY", "trYD");
-            font = Content.Load<SpriteFont>("text_big");
             // TODO: use this.Content to load your game content here
         }
 
@@ -105,7 +102,6 @@ namespace NAT {
             //    Exit();
             senpai.Update(gameTime, ControllerSenpai.ActiveSelector);
             // TODO: Add your update logic here
-            adapter.Update();
             base.Update(gameTime);  
         }
 

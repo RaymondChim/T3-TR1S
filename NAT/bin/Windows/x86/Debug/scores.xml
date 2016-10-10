@@ -67,5 +67,25 @@
     <Score Name="CHM" Count="142" Game="race" />
     <Score Name="CIA" Count="142" Game="race" />
     <Score Name="CIA" Count="200" Game="race" />
+    <Score Name="WES" Count="198" Game="race" />
+    <Score Name="WES" Count="154" Game="race" />
+    <Score Name="WES" Count="154" Game="race" />
+    <Score Name="WES" Count="760" Game="race" />
+    <Score Name="WES" Count="256" Game="race" />
+    <Score Name="WES" Count="452" Game="race" />
+    <Score Name="WES" Count="1644" Game="race" />
+    <Score Name="WES" Count="428" Game="race" />
+    <Score Name="WES" Count="864" Game="race" />
+    <Score Name="WES" Count="150" Game="race" />
+    <Score Name="WES" Count="1050" Game="race" />
+    <Score Name="WES" Count="572" Game="race" />
+    <Score Name="WES" Count="362" Game="race" />
+    <Score Name="WES" Count="1698" Game="race" />
+    <Score Name="FAX" Count="340" Game="race" />
+    <Score Name="FAX" Count="1134" Game="race" />
+    <Score Name="FAX" Count="824" Game="race" />
+    <Score Name="AAA" Count="2430" Game="tetris" />
+    <Score Name="AAA" Count="5744" Game="race" />
+    <Score Name="AAA" Count="682" Game="race" />
   </Scores>
 </ScoreTable>

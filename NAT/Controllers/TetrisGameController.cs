@@ -12,13 +12,13 @@ using NAT.Views;
 namespace NAT.Controllers {
     public class TetrisGameController : ControllerBase<ITetrisGameModel,IView> {
 
-        public override int[] GameTurnDelta { get; protected set; } = new int[] { 500, 500 };
+        public override int[] GameTurnDelta { get; protected set; } = new int[] { 300, 300 };
         public override int GameInputDelta { get; protected set; } = 75;
 
-        //protected override int minTurnDelta { get; set; } = 100;
-        protected override int startTurnDelta { get; set; } = 500;
+        protected override int minTurnDelta { get; set; } = 100;
+        protected override int startTurnDelta { get; set; } = 300;
 
-        protected override int GameTurnDecreaseIndex { get; set; } = 15000;
+        protected override int GameTurnDecreaseIndex { get; set; } = 1000;
         protected override int GameInputDecreaseIndex { get; set; } = 8000;
 
         protected override string GameName { get; } = "tetris";

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ScoreTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scores>
+    <Score Name="XNA" Count="100" Game="tetris" />
+    <Score Name="XNB" Count="1000" Game="tetris" />
+    <Score Name="XNC" Count="10000" Game="tetris" />
+    <Score Name="XND" Count="15000" Game="tetris" />
+    <Score Name="XNE" Count="20000" Game="tetris" />
+    <Score Name="XNF" Count="23000" Game="tetris" />
+    <Score Name="XNA" Count="100" Game="race" />
+    <Score Name="XNB" Count="1000" Game="race" />
+    <Score Name="XNC" Count="10000" Game="race" />
+    <Score Name="XND" Count="15000" Game="race" />
+    <Score Name="XNE" Count="20000" Game="race" />
+    <Score Name="XNF" Count="23000" Game="race" />
+  </Scores>
+</ScoreTable>
